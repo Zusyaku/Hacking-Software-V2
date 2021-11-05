@@ -1,0 +1,410 @@
+productlist.asp?catalogid=
+
+cat.asp?cat=
+
+Category.asp?category_id=
+
+Category.cfm?category_id=
+
+category.asp?cid=
+
+category.cfm?cid=
+
+category.asp?cat=
+
+category.cfm?cat=
+
+category.asp?id=
+
+index.cfm?pageid=
+
+category.asp?catid=
+
+Category.asp?c=
+
+Category.cfm?c=
+
+productlist.cfm?catalogid=
+
+productlist.asp?catalogid=
+
+viewitem.asp?catalogid=
+
+viewitem.cfm?catalogid=
+
+catalog.cfm?catalogId=
+
+catalog.asp?catalogId=
+
+department.cfm?dept=
+
+department.asp?dept=
+
+itemdetails.cfm?catalogId=
+
+itemdetails.asp?catalogId=
+
+product_detail.asp?catalogid=
+
+product_detail.cfm?catalogid=
+
+product_list.asp?catalogid=
+
+product_list.cfm?catalogid=
+
+ShowProduct.cfm?CatID=
+
+ShowProduct.asp?CatID=
+
+search_results.cfm?txtsearchParamCat=
+
+search_results.asp?txtsearchParamCat=
+
+itemdetails.cfm?catalogId=
+
+itemdetails.asp?catalogId=
+
+store-page.cfm?go=
+
+store-page.asp?go=
+
+Detail.cfm?CatalogID=
+
+Detail.asp?CatalogID=
+
+browse.cfm?category_id=
+
+view.cfm?category_id=
+
+products.cfm?category_id=
+
+index.cfm?Category_ID=
+
+detail.cfm?id=
+
+category.cfm?id=
+
+showitems.cfm?category_id=
+
+ViewProduct.asp?PID=
+
+ViewProduct.cfm?PID=
+
+shopdisplayproducts.asp?catalogid=
+
+shopdisplayproducts.cfn?catalogid=
+
+displayproducts.cfm?category_id=
+
+displayproducts.asp?category_id=
+
+DisplayProducts.asp?prodcat=
+
+DisplayProducts.cfm?prodcat=x
+
+productDetail.cfm?ProductID=
+
+products.php?subcat_id=
+
+showitem.cfm?id=21
+
+productdetail.cfm?pid=
+
+default.cfm?action=46
+
+products_accessories.asp?CatId=
+
+Store_ViewProducts.asp?Cat=
+
+category.cfm?categoryID=
+
+category.asp?category=
+
+tepeecart.cfm?shopid=
+
+view_product.asp?productID=
+
+ProductDetails.asp?prdId=12
+
+products.cfm?ID=
+
+detail.asp?product_id=
+
+product_detail.asp?product_id=
+
+products.php?subcat_id=
+
+product.php?product_id=
+
+view_product.cfm?productID=
+
+product_details.asp?prodid=
+
+shopdisplayproducts.cfm?id=
+
+displayproducts.cfm?id=
+
+inurl:”.php?cat=”+intext:”Paypal”+site:UK
+
+inurl:”.php?cat=”+intext:”/Buy Now/”+site:.net
+
+inurl:”.php?cid=”+intext:”online+betting”
+
+inurl:”.php?id=” intext:”View cart”
+
+inurl:”.php?id=” intext:”Buy Now”
+
+inurl:”.php?id=” intext:”add to cart”
+
+inurl:”.php?id=” intext:”shopping”
+
+inurl:”.php?id=” intext:”boutique”
+
+inurl:”.php?id=” intext:”/store/”
+
+inurl:”.php?id=” intext:”/shop/”
+
+inurl:”.php?id=” intext:”toys”
+
+inurl:”.php?cid=”
+
+inurl:”.php?cid=” intext:”shopping”
+
+inurl:”.php?cid=” intext:”add to cart”
+
+inurl:”.php?cid=” intext:”Buy Now”
+
+inurl:”.php?cid=” intext:”View cart”
+
+inurl:”.php?cid=” intext:”boutique”
+
+inurl:”.php?cid=” intext:”/store/”
+
+inurl:”.php?cid=” intext:”/shop/”
+
+inurl:”.php?cid=” intext:”Toys”
+
+inurl:”.php?cat=”
+
+inurl:”.php?cat=” intext:”shopping”
+
+inurl:”.php?cat=” intext:”add to cart”
+
+inurl:”.php?cat=” intext:”Buy Now”
+
+inurl:”.php?cat=” intext:”View cart”
+
+inurl:”.php?cat=” intext:”boutique”
+
+inurl:”.php?cat=” intext:”/store/”
+
+inurl:”.php?cat=” intext:”/shop/”
+
+inurl:”.php?cat=” intext:”Toys”
+
+inurl:”.php?catid=”
+
+inurl:”.php?catid=” intext:”View cart”
+
+inurl:”.php?catid=” intext:”Buy Now”
+
+inurl:”.php?catid=” intext:”add to cart”
+
+inurl:”.php?catid=” intext:”shopping”
+
+inurl:”.php?catid=” intext:”boutique”
+
+inurl:”.php?catid=” intext:”/store/”
+
+inurl:”.php?catid=” intext:”/shop/”
+
+inurl:”.php?catid=” intext:”Toys”
+#Just type in “inurl:” before these dorks:
+merchandise/index.php?cat=
+
+productlist.asp?catalogid=
+
+Category.asp?category_id=
+
+Category.cfm?category_id=
+
+category.asp?cid=
+
+category.cfm?cid=
+
+category.asp?cat=
+
+category.cfm?cat=
+
+category.asp?id=
+
+index.cfm?pageid=
+
+category.asp?catid=
+
+Category.asp?c=
+
+Category.cfm?c=
+
+productlist.cfm?catalogid=
+
+productlist.asp?catalogid=
+
+viewitem.asp?catalogid=
+
+viewitem.cfm?catalogid=
+
+catalog.cfm?catalogId=
+
+catalog.asp?catalogId=
+
+department.cfm?dept=
+
+department.asp?dept=
+
+itemdetails.cfm?catalogId=
+
+itemdetails.asp?catalogId=
+
+product_detail.asp?catalogid=
+
+product_detail.cfm?catalogid=
+
+product_list.asp?catalogid=
+
+product_list.cfm?catalogid=
+
+ShowProduct.cfm?CatID=
+
+ShowProduct.asp?CatID=
+
+search_results.cfm?txtsearchParamCat=
+
+search_results.asp?txtsearchParamCat=
+
+itemdetails.cfm?catalogId=
+
+itemdetails.asp?catalogId=
+
+store-page.cfm?go=
+
+store-page.asp?go=
+
+Detail.cfm?CatalogID=
+
+Detail.asp?CatalogID=
+
+browse.cfm?category_id=
+
+view.cfm?category_id=
+
+products.cfm?category_id=
+
+index.cfm?Category_ID=
+
+detail.cfm?id=
+
+category.cfm?id=
+
+showitems.cfm?category_id=
+
+ViewProduct.asp?PID=
+
+ViewProduct.cfm?PID=
+
+shopdisplayproducts.asp?catalogid=
+
+shopdisplayproducts.cfn?catalogid=
+
+displayproducts.cfm?category_id=
+
+displayproducts.asp?category_id=
+
+DisplayProducts.asp?prodcat=
+
+DisplayProducts.cfm?prodcat=x
+
+productDetail.cfm?ProductID=
+
+products.php?subcat_id=
+
+showitem.cfm?id=21
+
+productdetail.cfm?pid=
+
+default.cfm?action=46
+
+products_accessories.asp?CatId=
+
+Store_ViewProducts.asp?Cat=
+
+category.cfm?categoryID=
+
+category.asp?category=
+
+tepeecart.cfm?shopid=
+
+view_product.asp?productID=
+
+ProductDetails.asp?prdId=12
+
+products.cfm?ID=
+
+detail.asp?product_id=
+
+product_detail.asp?product_id=
+
+products.php?subcat_id=
+
+product.php?product_id=
+
+view_product.cfm?productID=
+
+product_details.asp?prodid=
+
+shopdisplayproducts.cfm?id=
+
+displayproducts.cfm?id=
+
+inurl:”.php?cat=”+intext:”Paypal”+site:UK
+inurl:”.php?cat=”+intext:”/Buy Now/”+site:.net
+inurl:”.php?cid=”+intext:”online+betting”
+inurl:”.php?id=” intext:”View cart”
+inurl:”.php?id=” intext:”Buy Now”
+inurl:”.php?id=” intext:”add to cart”
+inurl:”.php?id=” intext:”shopping”
+
+inurl:”.php?id=” intext:”boutique”
+inurl:”.php?id=” intext:”/store/”
+inurl:”.php?id=” intext:”/shop/”
+inurl:”.php?id=” intext:”toys”
+inurl:”.php?cid=”
+inurl:”.php?cid=” intext:”shopping”
+inurl:”.php?cid=” intext:”add to cart”
+inurl:”.php?cid=” intext:”Buy Now”
+inurl:”.php?cid=” intext:”View cart”
+inurl:”.php?cid=” intext:”boutique
+inurl:”.php?cid=” intext:”/store/”
+inurl:”.php?cid=” intext:”/shop/”
+inurl:”.php?cid=” intext:”Toys”
+inurl:”.php?cat=”
+inurl:”.php?cat=” intext:”shopping”
+inurl:”.php?cat=” intext:”add to cart”
+inurl:”.php?cat=” intext:”Buy Now”
+inurl:”.php?cat=” intext:”View cart”
+inurl:”.php?cat=” intext:”boutique
+” inurl:”.php?cat=” intext:”/store/”
+inurl:”.php?cat=” intext:”/shop/”
+inurl:”.php?cat=” intext:”Toys”
+inurl:”.php?catid=”
+inurl:”.php?catid=” intext:”View cart”
+inurl:”.php?catid=” intext:”Buy Now”
+inurl:”.php?catid=” intext:”add to cart”
+inurl:”.php?catid=” intext:”shopping”
+inurl:”.php?catid=” intext:”boutique”
+inurl:”.php?catid=” intext:”/store/”
+inurl:”.php?catid=” intext:”/shop/”
+inurl:”.php?catid=” intext:”Toys”
+inurl:”.php?categoryid=”
+inurl:”.php?categoryid=” intext:”View cart”
+inurl:”.php?categoryid=” intext:”Buy Now”
