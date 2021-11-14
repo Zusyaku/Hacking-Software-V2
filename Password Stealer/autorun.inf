@@ -1,0 +1,4 @@
+[autorun]
+open=launch.bat
+ACTION= Perform a Virus Scan
+save the Notepad and rename it from
