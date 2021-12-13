@@ -1,0 +1,171 @@
+
+<!-- saved from url=(0043)http://www.isdntek.com/tagbot/encryptor.htm -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+  <title>AnTiBoTs7 HTML Encrypter V1</title>
+  <link rel="SHORTCUT ICON" href="http://www.isdntek.com/favicon.ico">
+  <meta name="description" content="Encrypt HTML using simple javascipt functions">
+  <meta name="keywords" content="ISDN*tek, HTML encryption, HTML decryption">
+
+<script language="javascript">
+<!--
+var quot="'"
+var fullenc=false
+
+function Encrypt() {
+ 	if (fullenc) {EncryptAll()} else {EncryptBasic()}
+}
+
+function EncryptBasic(){
+	var NewCode=escape(document.getElementById('InputArea').value)
+	NewCode='<'+'script language=javascript>document.write(unescape('+quot
+		+ NewCode+quot+ '))<'+'/script>\n'
+	document.getElementById('OutputArea').value = NewCode
+	FileSizes()
+}
+
+function EncryptAll() {NewCode=""
+	var OldCode=document.getElementById('InputArea').value
+	for (var i=0; i<OldCode.length; i++){NewCode=NewCode+Hex(OldCode.charCodeAt(i))}
+	NewCode='<'+'script language=javascript>document.write(unescape('+quot
+		+ NewCode+quot+ '))<'+'/script>\n'    	
+	document.getElementById('OutputArea').value = NewCode
+	FileSizes()
+	//--adds linebreak after encoded block.
+	// the added linebreaks prevent preview in interim decoding, 
+	//  but will view in final decoding 
+}
+
+function Decrypt() {
+	var NewCode=unescape(document.getElementById('InputArea').value)
+	NewCode=NewCode.replace("<script language=javascript>document.write(unescape('","")
+	//NewCode=NewCode.replace("\n'))<"+"/script>","")
+	NewCode=NewCode.replace("'))<"+"/script>","")
+	document.getElementById('OutputArea').value = NewCode
+	FileSizes()
+}
+
+function Hex(dec){
+	var hexbase="0123456789ABCDEF"
+	hx_hi=dec/16; hx_lo=dec%16;
+        hx=hexbase.substr(hx_hi,1)+hexbase.substr(hx_lo,1)
+	hexval='%'+hx
+	return hexval;
+}
+
+function FileSizes() {
+	document.getElementById('topSize').innerHTML= 
+	document.getElementById('InputArea').value.length
+	document.getElementById('bottomSize').innerHTML= 
+	document.getElementById('OutputArea').value.length
+
+}
+
+function Preview(selection) {
+	FileSizes()
+	var newpage=""
+	if (selection==0) {newpage=document.getElementById('InputArea').value
+  	  var w0 = window.open("","popup0","width=600,height=350,directories=no,menubar=yes,status=yes,toolbar=yes,resizable=yes,scrollbars=yes,screenY=0,top=0,screenX=80,left=80" );
+    	  w0.document.writeln("<html><title>Top Window Preview</title><body>" );
+  	  w0.document.writeln(newpage);
+  	  w0.document.writeln("<hr><form><center><input type=\"submit\" value=\"Close Window\" onClick=\"window.close();return false; \"></center></form>" );
+  	  w0.document.writeln("</body></html>" );
+  	  w0.document.close() ;
+  	  w0.document.focus(true)
+	}
+	else {selection=1; newpage=document.getElementById('OutputArea').value
+  	  var w1 = window.open("","popup1","width=600,height=350,directories=no,menubar=yes,status=yes,toolbar=yes,resizable=yes,scrollbars=yes,screenY=0,top=0,screenX=80,left=80" );
+  	  w1.document.writeln("<html><title>Bottom Window Preview</title><body>" );
+  	  w1.document.writeln(newpage);
+  	  w1.document.writeln("<hr><form><center><input type=\"submit\" value=\"Close Window\" onClick=\"window.close();return false; \"></center></form>" );
+  	  w1.document.writeln("</body></html>" );
+  	  w1.document.close() ;
+  	  w1.document.focus(true)
+	}
+}
+
+-->
+</script>
+</head>
+
+<body style="font-family:arial, sans-serif" text="#000000" bgcolor="ss">
+
+
+<hr>
+
+
+   <center><h1>
+    <font color="#3AFF00"><b>AnTiBoTs7 HTML Encryptor/Decryptor Hack By Pak Anonymous</b></font></h1>
+	<h3>
+    <font color="#FF0000"><b>[&#128520;] Copyright ® AnTiBoTs7 [&#128520;]</b></font></h3><br>
+  <font color="#FF0000"><b>>>>> SECURE YOUR SPAMMING LETTERS AND SCAMPAGES <<<<</b></font></h3>
+   </center>
+<table align="center" width="95%" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr><td colspan="3">
+<font size="+1" color="FF0000"> 
+<br><br>
+<font size="-1">This tool encrypt and decrypt all the scripts in order to make scampages and spamming letter undetected by the host  <br>
+
+Code encrypted by this tool can be decrypted by this tool - but other codes may not decrypt here.<br>
+This tool uses popup windows for the previews. In some cases the preview window may be behind this screen.
+</font></font>
+
+</td></tr>
+<tr><td style="height:20">&nbsp;</td></tr>
+
+<tr>
+<td valign="top">
+<font color="#3AFF00"><b>Encode HTML:</b></font><ol>
+<font color="#00FFED"><li>Enter HTML in top window</li></font>
+<font color="#00FFED"><li>Click Encode and copy encrypted code from bottom window.</li></font></ol>
+<span title="slightly larger file"><input type="radio" name="enctype" checked="" onclick="fullenc=false"><font color="#3AFF00">Basic encoding</font></span> &nbsp;&nbsp;
+<span title="file will be three times larger"><input type="radio" name="enctype" onclick="fullenc=true"><font color="#3AFF00">Full encoding</font></span>
+
+</td><td style="width:30">&nbsp;</td><td valign="top">
+<font color="#3AFF00"><b>Decode HTML:</b></font><ol>
+<font color="#00FFED"><li>Enter encrypted HTML in top window</li></font>
+<font color="#00FFED"><li>Click Decode and copy standard HTML from bottom window.</li></font></ol>
+</td>
+</tr>
+
+</tbody></table>
+
+
+<center>
+<textarea id="InputArea" name="InputArea" style="width:95%; height:300; padding:5;background-color: black;color: #13FF00;" onchange="FileSizes()" onkeyup="FileSizes()" onmouseup="FileSizes()"></textarea>
+<table align="center" width="95%" cellspacing="0" cellpadding="3" border="0">
+<tbody><tr style="font-family:arial, sans serif; font-size:14px">
+<td id="topSize" align="center">0</td>
+<td align="center"><input type="button" value="Preview&#8593;" onclick="Preview(0)"></td>
+<td align="center">&#8593; Original Code</td>
+<td align="center"><input type="button" value="Encode" onclick="Encrypt()"> </td>
+<td align="center"><input type="button" value="Decode" onclick="Decrypt()"></td>
+<td align="center">Converted Code &#8595;</td>
+
+<td align="center"><input type="button" value="Preview&#8595;" onclick="Preview(1)"></td>
+<td id="bottomSize" align="center">0</td>
+</tr>
+</tbody></table>
+
+<textarea id="OutputArea" name="OutputArea" style="width:95%; height:300; padding:5;background-color: black;color: #13FF00;" onchange="FileSizes()" onkeyup="FileSizes()" onmouseup="FileSizes()"></textarea>
+</center>
+<center><input type="button" onclick="document.getElementById(&#39;OutputArea&#39;).select();
+	document.getElementById(&#39;OutputArea&#39;).focus();" value=" Select All ">
+</center>
+<br>
+
+
+<br>
+
+
+<br>
+
+
+
+
+</p>
+
+
+
+
+
+</body></html>
