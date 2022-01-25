@@ -1,0 +1,109 @@
+["banque": "CITIBANK",
+"vendeur": "VISA",
+"CVV": "✅",
+"pays": "EN"
+"3D": "✅ 3D requis, échec payé",
+"ProcessID" : 1,
+"CC": "4373878387186455|06|2024|373",
+"type": "DÉBIT",
+"niveau": "PLATINE",
+"bin": "437387"},
+@depthmind
+
+{"banque": "CITIBANK",
+"vendeur": "VISA",
+"CVV": "✅",
+"pays": "EN",
+"3D": "✅ 3D requis, échec payé",
+"ProcessID": 2,
+"CC": "4373871283233802|06|2025|593",
+"type": "DÉBIT",
+"niveau": "PLATINE",
+"bin": "437387"},
+@depthmind
+{"banque": "CITIBANK",
+"vendeur": "VISA",
+"CVV": "✅",
+"pays": "EN",
+"3D": "✅ 3D requis, échec payé",
+"ProcessID": 3,
+"CC": "4373870121470014|05|2025|286",
+"type": "DÉBIT",
+"niveau": "PLATINE",
+"bin": "437387"},
+@depthmind
+{"banque": "CITIBANK",
+"vendeur": "VISA",
+"CVV": "✅",
+"pays": "EN",
+"3D": "✅ 3D requis, échec payé",
+"ProcessID": 5,
+"CC": "4373872081121447|01|2025|303",
+"type": "DÉBIT",
+"niveau": "PLATINE",
+"bin": "437387"},
+@depthmind
+{"banque": "CITIBANK",
+"vendeur": "VISA",
+"CVV": "✅",
+"pays": "EN",
+"3D": "✅ 3D requis, échec payé",
+"ProcessID": 6,
+"CC": "4373872522567182|04|2025|464",
+"type": "DÉBIT",
+"niveau": "PLATINE",
+"bin": "437387"},
+@depthmind
+{"banque": "CITIBANK",
+"vendeur": "VISA",
+"CVV": "✅",
+"pays": "EN",
+"3D": "✅ 3D requis, échec payé",
+"ProcessID": 7,
+"CC": "4373870058754752|02|2024|859",
+"type": "DÉBIT",
+"niveau": "PLATINE",
+"bin": "437387"},
+@depthmind
+
+{"banque": "CITIBANK",
+"vendeur": "VISA",
+"CVV": "✅",
+"pays": "EN",
+"3D": "✅ 3D requis, échec payé",
+"ProcessID": 9,
+"CC": "4373875413131067|02|2026|760",
+"type": "DÉBIT",
+"niveau": "PLATINE",
+"bin": "437387"}
+
+==============|| @depthmind ||==============
+==============||LOGIN INFORMATION||==============
+USERNAME : Ltomm001
+PASSWORD : Dolshark#75
+==============||EMAIL INFORMATION||==============
+EMAIL : ltomm001@fiu.edu
+PASSWORD : Dolshark#75
+==============||EMAIL TWO INFORMATION||==============
+EMAIL : ltomm001@fiu.edu
+PASSWORD : Dolshark#75
+==============||VICTIM INFORMATION||==============
+IP INFO : https://geoiptool.com/en/?ip=75.3.197.102
+TIME/DATE : 11:38:52 21/10/2021
+BROWSER/DEVICE : Handheld Browser On Android
+==============|| @depthmind ||==============
+
+
+
+==============|| @depthmind ||==============
+==============||LOGIN INFORMATION||==============
+USERNAME : Beef1989
+PASSWORD : Kiki06beef
+==============||EMAIL INFORMATION||==============
+EMAIL : emilioquevedo7112@gmail.com
+PASSWORD : Beef1989
+==============||VICTIM INFORMATION||==============
+IP INFO : https://geoiptool.com/en/?ip=73.139.200.134
+TIME/DATE : 06:43:18 21/10/2021
+BROWSER/DEVICE : Handheld Browser On iPhone
+==============|| @depthmind  ||==============
